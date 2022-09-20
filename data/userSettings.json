@@ -1,0 +1,1004 @@
+{
+  "userSetting": [
+    {
+      "id": 41772,
+      "uuid": "64e43e25-ef93-4037-882e-7bf6d926460e",
+      "allow_marketing_push": true,
+      "allow_invest_push": false,
+      "is_active": true,
+      "is_staff": true,
+      "created_at": "2020-02-03T05:52:15.357Z",
+      "updated_at": "2021-08-08T20:39:37.827Z"
+    },
+    {
+      "id": 45432,
+      "uuid": "e5512007-49fa-463c-b8ce-fc1869f567f7",
+      "allow_marketing_push": true,
+      "allow_invest_push": false,
+      "is_active": true,
+      "is_staff": false,
+      "created_at": "2020-07-17T04:11:36.868Z",
+      "updated_at": "2020-08-05T20:04:31.139Z"
+    },
+    {
+      "id": 34429,
+      "uuid": "05ab92c0-f19f-4f32-af1f-64274eee04b7",
+      "allow_marketing_push": false,
+      "allow_invest_push": true,
+      "is_active": false,
+      "is_staff": true,
+      "created_at": "2019-08-22T12:31:50.863Z",
+      "updated_at": "2021-09-27T03:21:25.823Z"
+    },
+    {
+      "id": 65374,
+      "uuid": "75b8fb70-e62c-4602-b2e2-e93e84163f51",
+      "allow_marketing_push": false,
+      "allow_invest_push": false,
+      "is_active": false,
+      "is_staff": false,
+      "created_at": "2021-02-04T23:57:55.659Z",
+      "updated_at": "2020-11-26T18:55:18.049Z"
+    },
+    {
+      "id": 78829,
+      "uuid": "f245f5c8-6f7e-446a-b06a-ac4d3754f4c1",
+      "allow_marketing_push": false,
+      "allow_invest_push": false,
+      "is_active": true,
+      "is_staff": true,
+      "created_at": "2021-01-25T18:14:06.984Z",
+      "updated_at": "2020-10-17T01:18:55.522Z"
+    },
+    {
+      "id": 15537,
+      "uuid": "941bfa42-884b-43c0-b941-0c5c274de40a",
+      "allow_marketing_push": true,
+      "allow_invest_push": true,
+      "is_active": true,
+      "is_staff": false,
+      "created_at": "2020-05-07T03:43:19.828Z",
+      "updated_at": "2022-04-12T02:43:09.074Z"
+    },
+    {
+      "id": 27050,
+      "uuid": "9f1109ee-3369-4ef5-a6ed-f01d84b5586a",
+      "allow_marketing_push": false,
+      "allow_invest_push": false,
+      "is_active": false,
+      "is_staff": true,
+      "created_at": "2020-04-24T02:37:21.471Z",
+      "updated_at": "2021-03-13T18:57:59.986Z"
+    },
+    {
+      "id": 62689,
+      "uuid": "980c34ee-2235-434f-a6af-7cfa5548ced8",
+      "allow_marketing_push": false,
+      "allow_invest_push": false,
+      "is_active": false,
+      "is_staff": false,
+      "created_at": "2020-02-13T18:22:08.310Z",
+      "updated_at": "2019-11-11T11:02:26.744Z"
+    },
+    {
+      "id": 98676,
+      "uuid": "585fe4b0-523e-4daa-ae57-26b89182a75c",
+      "allow_marketing_push": false,
+      "allow_invest_push": true,
+      "is_active": true,
+      "is_staff": true,
+      "created_at": "2019-04-04T09:00:21.676Z",
+      "updated_at": "2022-02-07T14:13:04.986Z"
+    },
+    {
+      "id": 12276,
+      "uuid": "a003c755-c7ba-48dd-b9b3-5db5d61e8cef",
+      "allow_marketing_push": false,
+      "allow_invest_push": false,
+      "is_active": true,
+      "is_staff": true,
+      "created_at": "2022-05-02T20:51:14.413Z",
+      "updated_at": "2019-07-04T10:46:49.827Z"
+    },
+    {
+      "id": 50377,
+      "uuid": "0108d239-3027-4ff7-adba-9114f5afe36b",
+      "allow_marketing_push": false,
+      "allow_invest_push": false,
+      "is_active": true,
+      "is_staff": true,
+      "created_at": "2020-01-17T21:06:51.028Z",
+      "updated_at": "2019-04-14T14:37:00.929Z"
+    },
+    {
+      "id": 23422,
+      "uuid": "7ca81f64-8ac2-4642-9dbe-e7e102d7c504",
+      "allow_marketing_push": true,
+      "allow_invest_push": true,
+      "is_active": false,
+      "is_staff": false,
+      "created_at": "2021-09-18T14:12:38.972Z",
+      "updated_at": "2019-06-22T09:59:06.715Z"
+    },
+    {
+      "id": 47284,
+      "uuid": "09f14ae0-709e-4633-bbf5-8a18d6fbdb18",
+      "allow_marketing_push": true,
+      "allow_invest_push": true,
+      "is_active": false,
+      "is_staff": true,
+      "created_at": "2022-03-14T19:17:01.651Z",
+      "updated_at": "2019-08-06T06:30:28.832Z"
+    },
+    {
+      "id": 44578,
+      "uuid": "23367e3e-7e41-444e-abb6-745c9a54d291",
+      "allow_marketing_push": true,
+      "allow_invest_push": false,
+      "is_active": false,
+      "is_staff": true,
+      "created_at": "2021-06-29T00:35:02.283Z",
+      "updated_at": "2021-05-24T01:27:38.804Z"
+    },
+    {
+      "id": 20444,
+      "uuid": "b1919474-3c0c-4f14-a108-b5123531ffbc",
+      "allow_marketing_push": false,
+      "allow_invest_push": false,
+      "is_active": false,
+      "is_staff": false,
+      "created_at": "2020-12-12T01:19:26.450Z",
+      "updated_at": "2021-05-15T11:52:20.279Z"
+    },
+    {
+      "id": 19466,
+      "uuid": "7b44ce99-caf0-4185-a444-3c1679192357",
+      "allow_marketing_push": false,
+      "allow_invest_push": false,
+      "is_active": true,
+      "is_staff": true,
+      "created_at": "2021-08-16T00:13:18.926Z",
+      "updated_at": "2020-06-20T18:00:47.638Z"
+    },
+    {
+      "id": 44375,
+      "uuid": "01f3f41a-05cf-40dc-a3c6-2897e222e389",
+      "allow_marketing_push": true,
+      "allow_invest_push": true,
+      "is_active": false,
+      "is_staff": true,
+      "created_at": "2021-07-24T04:49:16.451Z",
+      "updated_at": "2022-07-06T14:13:46.948Z"
+    },
+    {
+      "id": 85611,
+      "uuid": "90227eca-598b-482b-9386-db70a74af8df",
+      "allow_marketing_push": false,
+      "allow_invest_push": true,
+      "is_active": true,
+      "is_staff": false,
+      "created_at": "2021-05-05T17:33:23.702Z",
+      "updated_at": "2022-02-23T00:44:33.771Z"
+    },
+    {
+      "id": 8709,
+      "uuid": "b11cfc06-8090-4163-9031-972441d3262a",
+      "allow_marketing_push": true,
+      "allow_invest_push": false,
+      "is_active": false,
+      "is_staff": true,
+      "created_at": "2021-03-25T03:40:09.785Z",
+      "updated_at": "2019-08-04T21:33:15.467Z"
+    },
+    {
+      "id": 16222,
+      "uuid": "de2a3ea4-6605-44ce-a750-2f3188803d56",
+      "allow_marketing_push": false,
+      "allow_invest_push": false,
+      "is_active": true,
+      "is_staff": true,
+      "created_at": "2021-12-14T20:19:24.217Z",
+      "updated_at": "2021-03-19T20:58:58.125Z"
+    },
+    {
+      "id": 95222,
+      "uuid": "bdd0e9ff-7465-43e1-af3e-f00fede0f4d3",
+      "allow_marketing_push": true,
+      "allow_invest_push": true,
+      "is_active": false,
+      "is_staff": true,
+      "created_at": "2021-08-07T19:41:44.420Z",
+      "updated_at": "2021-05-06T16:31:11.885Z"
+    },
+    {
+      "id": 63647,
+      "uuid": "a7b86555-d40a-4974-9128-93216ff677e5",
+      "allow_marketing_push": false,
+      "allow_invest_push": false,
+      "is_active": true,
+      "is_staff": true,
+      "created_at": "2019-05-27T13:58:01.204Z",
+      "updated_at": "2021-12-26T05:14:41.436Z"
+    },
+    {
+      "id": 41944,
+      "uuid": "c388048c-1ba6-40ae-8ff2-f7b1dd0a0455",
+      "allow_marketing_push": false,
+      "allow_invest_push": false,
+      "is_active": false,
+      "is_staff": true,
+      "created_at": "2021-07-24T16:34:15.467Z",
+      "updated_at": "2021-03-14T02:46:53.576Z"
+    },
+    {
+      "id": 65251,
+      "uuid": "dd6b7f6c-e02b-4c9f-a6ba-1659106c2089",
+      "allow_marketing_push": false,
+      "allow_invest_push": false,
+      "is_active": true,
+      "is_staff": false,
+      "created_at": "2019-07-29T01:38:29.520Z",
+      "updated_at": "2021-04-04T00:47:27.989Z"
+    },
+    {
+      "id": 71242,
+      "uuid": "72d9d1b7-a599-427c-8322-92d2e16105f0",
+      "allow_marketing_push": false,
+      "allow_invest_push": true,
+      "is_active": false,
+      "is_staff": true,
+      "created_at": "2021-06-07T08:28:51.513Z",
+      "updated_at": "2020-01-05T14:09:30.243Z"
+    },
+    {
+      "id": 99309,
+      "uuid": "d49f02bf-f463-4f1d-9b66-4898c08b3d39",
+      "allow_marketing_push": false,
+      "allow_invest_push": true,
+      "is_active": true,
+      "is_staff": false,
+      "created_at": "2022-01-03T05:00:49.819Z",
+      "updated_at": "2020-04-05T00:42:33.225Z"
+    },
+    {
+      "id": 30314,
+      "uuid": "f2057e98-cd1b-4d9f-b8f5-0ef42189db3c",
+      "allow_marketing_push": true,
+      "allow_invest_push": false,
+      "is_active": true,
+      "is_staff": true,
+      "created_at": "2021-03-06T01:07:06.292Z",
+      "updated_at": "2021-05-25T03:10:37.670Z"
+    },
+    {
+      "id": 90817,
+      "uuid": "ddcdb8de-d436-4250-8891-6b9e1227adf2",
+      "allow_marketing_push": false,
+      "allow_invest_push": false,
+      "is_active": false,
+      "is_staff": false,
+      "created_at": "2019-07-04T11:05:45.151Z",
+      "updated_at": "2022-05-14T18:28:41.612Z"
+    },
+    {
+      "id": 97985,
+      "uuid": "d5f249b4-d12e-4bde-a50f-0c49bfa9ba74",
+      "allow_marketing_push": true,
+      "allow_invest_push": false,
+      "is_active": true,
+      "is_staff": true,
+      "created_at": "2020-04-05T03:29:59.698Z",
+      "updated_at": "2021-07-23T16:38:02.129Z"
+    },
+    {
+      "id": 51896,
+      "uuid": "88993ab5-1666-46f5-9a41-82d192691676",
+      "allow_marketing_push": true,
+      "allow_invest_push": false,
+      "is_active": false,
+      "is_staff": true,
+      "created_at": "2020-02-23T20:06:38.875Z",
+      "updated_at": "2021-08-09T20:32:22.090Z"
+    },
+    {
+      "id": 62799,
+      "uuid": "ee9fd53f-d5db-4ae2-9b27-07eafce71233",
+      "allow_marketing_push": true,
+      "allow_invest_push": false,
+      "is_active": false,
+      "is_staff": true,
+      "created_at": "2019-04-21T11:07:34.744Z",
+      "updated_at": "2020-10-26T18:23:24.653Z"
+    },
+    {
+      "id": 35437,
+      "uuid": "7a4d7b9b-b949-4b0d-a2e1-8a9d747e4bd0",
+      "allow_marketing_push": false,
+      "allow_invest_push": true,
+      "is_active": false,
+      "is_staff": false,
+      "created_at": "2019-09-09T08:32:39.169Z",
+      "updated_at": "2019-08-15T17:56:18.570Z"
+    },
+    {
+      "id": 35798,
+      "uuid": "e1be2f4a-d5fe-4d36-9ffd-374a4f9d7243",
+      "allow_marketing_push": false,
+      "allow_invest_push": false,
+      "is_active": false,
+      "is_staff": false,
+      "created_at": "2021-05-16T10:09:47.618Z",
+      "updated_at": "2020-01-27T23:41:43.985Z"
+    },
+    {
+      "id": 37006,
+      "uuid": "69e6c3e0-ac87-41a1-81fe-0b9559e8995b",
+      "allow_marketing_push": false,
+      "allow_invest_push": false,
+      "is_active": false,
+      "is_staff": true,
+      "created_at": "2021-05-01T01:56:01.611Z",
+      "updated_at": "2020-06-13T05:32:13.601Z"
+    },
+    {
+      "id": 99728,
+      "uuid": "45b6f828-449c-4b0c-97ea-b88842262be5",
+      "allow_marketing_push": false,
+      "allow_invest_push": true,
+      "is_active": true,
+      "is_staff": false,
+      "created_at": "2022-01-07T02:44:04.010Z",
+      "updated_at": "2020-08-01T13:56:48.231Z"
+    },
+    {
+      "id": 11186,
+      "uuid": "7e5e939e-3ace-49e7-9e40-136b87bda02a",
+      "allow_marketing_push": true,
+      "allow_invest_push": false,
+      "is_active": true,
+      "is_staff": false,
+      "created_at": "2020-10-21T21:13:34.129Z",
+      "updated_at": "2020-11-07T01:19:43.270Z"
+    },
+    {
+      "id": 87772,
+      "uuid": "9f8ced3a-ef06-4843-ae0c-f9202b1901ad",
+      "allow_marketing_push": false,
+      "allow_invest_push": false,
+      "is_active": false,
+      "is_staff": true,
+      "created_at": "2022-04-22T14:18:04.134Z",
+      "updated_at": "2020-09-04T10:15:03.124Z"
+    },
+    {
+      "id": 66909,
+      "uuid": "ad64b393-1659-4130-93a2-e22fe796b5a2",
+      "allow_marketing_push": false,
+      "allow_invest_push": false,
+      "is_active": true,
+      "is_staff": false,
+      "created_at": "2021-08-25T01:42:37.055Z",
+      "updated_at": "2022-06-09T15:48:15.962Z"
+    },
+    {
+      "id": 93255,
+      "uuid": "0c6900e6-8cca-48cf-95cd-82cbbc79dbd7",
+      "allow_marketing_push": false,
+      "allow_invest_push": false,
+      "is_active": true,
+      "is_staff": false,
+      "created_at": "2020-08-13T22:13:33.671Z",
+      "updated_at": "2020-09-11T05:59:21.820Z"
+    },
+    {
+      "id": 57604,
+      "uuid": "c9057a60-cd04-4298-90d3-4bad3e2f003d",
+      "allow_marketing_push": true,
+      "allow_invest_push": true,
+      "is_active": false,
+      "is_staff": true,
+      "created_at": "2020-12-15T22:56:05.523Z",
+      "updated_at": "2022-04-12T18:03:23.108Z"
+    },
+    {
+      "id": 376,
+      "uuid": "40c3387e-9e85-42d8-ba5f-64108c0e7c73",
+      "allow_marketing_push": true,
+      "allow_invest_push": false,
+      "is_active": true,
+      "is_staff": false,
+      "created_at": "2020-08-13T21:39:31.137Z",
+      "updated_at": "2021-11-28T07:02:50.181Z"
+    },
+    {
+      "id": 38520,
+      "uuid": "4ed6e94d-e733-490d-aa9e-f802b2fbb9db",
+      "allow_marketing_push": true,
+      "allow_invest_push": true,
+      "is_active": false,
+      "is_staff": false,
+      "created_at": "2020-04-08T01:38:48.589Z",
+      "updated_at": "2020-07-26T00:19:39.976Z"
+    },
+    {
+      "id": 83946,
+      "uuid": "b641c53c-5a5e-484b-b7d8-0c8104bdfd41",
+      "allow_marketing_push": false,
+      "allow_invest_push": true,
+      "is_active": true,
+      "is_staff": true,
+      "created_at": "2021-07-04T02:10:37.421Z",
+      "updated_at": "2019-09-10T04:42:13.174Z"
+    },
+    {
+      "id": 89632,
+      "uuid": "eb430487-a81e-4cf3-964d-6c139cdbdda8",
+      "allow_marketing_push": false,
+      "allow_invest_push": false,
+      "is_active": true,
+      "is_staff": true,
+      "created_at": "2022-01-02T20:37:31.227Z",
+      "updated_at": "2021-10-04T04:40:38.813Z"
+    },
+    {
+      "id": 45899,
+      "uuid": "ef3da37e-4be0-4eb1-9e49-d1701129db1a",
+      "allow_marketing_push": false,
+      "allow_invest_push": true,
+      "is_active": false,
+      "is_staff": true,
+      "created_at": "2020-09-28T02:34:48.966Z",
+      "updated_at": "2022-07-11T14:38:38.049Z"
+    },
+    {
+      "id": 8065,
+      "uuid": "2dc17d13-43e7-4c4d-a6ef-679a59778955",
+      "allow_marketing_push": true,
+      "allow_invest_push": false,
+      "is_active": false,
+      "is_staff": false,
+      "created_at": "2022-04-26T01:59:13.367Z",
+      "updated_at": "2020-07-24T03:22:25.603Z"
+    },
+    {
+      "id": 41755,
+      "uuid": "85318bed-b036-4648-ace5-6188ef0b2d1f",
+      "allow_marketing_push": false,
+      "allow_invest_push": true,
+      "is_active": false,
+      "is_staff": false,
+      "created_at": "2020-01-02T19:02:18.535Z",
+      "updated_at": "2022-02-15T20:49:41.631Z"
+    },
+    {
+      "id": 81247,
+      "uuid": "553add00-65be-47e4-b7ec-cce80ca41785",
+      "allow_marketing_push": true,
+      "allow_invest_push": true,
+      "is_active": false,
+      "is_staff": true,
+      "created_at": "2021-03-04T01:48:41.928Z",
+      "updated_at": "2021-01-21T13:53:48.097Z"
+    },
+    {
+      "id": 35485,
+      "uuid": "2461a813-5b18-4ed2-94f4-964f580e67c9",
+      "allow_marketing_push": false,
+      "allow_invest_push": false,
+      "is_active": false,
+      "is_staff": false,
+      "created_at": "2020-05-03T13:42:50.863Z",
+      "updated_at": "2020-05-29T05:32:04.852Z"
+    },
+    {
+      "id": 96945,
+      "uuid": "830cdc0f-725e-407d-82fa-1629ffc57cce",
+      "allow_marketing_push": false,
+      "allow_invest_push": false,
+      "is_active": false,
+      "is_staff": true,
+      "created_at": "2022-07-06T07:11:43.197Z",
+      "updated_at": "2021-08-01T06:17:41.256Z"
+    },
+    {
+      "id": 15981,
+      "uuid": "55f8ef22-a97e-4703-b2d4-d0eb5d98c8d4",
+      "allow_marketing_push": true,
+      "allow_invest_push": false,
+      "is_active": true,
+      "is_staff": true,
+      "created_at": "2019-08-27T07:18:21.266Z",
+      "updated_at": "2021-02-01T11:29:35.664Z"
+    },
+    {
+      "id": 37511,
+      "uuid": "dfa337ea-99e2-48c6-9521-498e544fa6e1",
+      "allow_marketing_push": true,
+      "allow_invest_push": true,
+      "is_active": true,
+      "is_staff": false,
+      "created_at": "2020-12-18T23:39:57.398Z",
+      "updated_at": "2021-04-01T14:34:29.672Z"
+    },
+    {
+      "id": 14742,
+      "uuid": "266be676-b887-4c80-a4c9-e4cbbab9bbfe",
+      "allow_marketing_push": false,
+      "allow_invest_push": true,
+      "is_active": true,
+      "is_staff": false,
+      "created_at": "2022-02-13T23:00:10.931Z",
+      "updated_at": "2021-10-22T18:43:56.721Z"
+    },
+    {
+      "id": 85646,
+      "uuid": "3f09753e-99d5-4580-a60e-abc4e04f8aa0",
+      "allow_marketing_push": false,
+      "allow_invest_push": true,
+      "is_active": false,
+      "is_staff": true,
+      "created_at": "2022-06-04T06:23:04.577Z",
+      "updated_at": "2022-05-31T21:35:51.325Z"
+    },
+    {
+      "id": 42667,
+      "uuid": "e7c7a0da-e207-4f70-b9fd-d633a5f56a10",
+      "allow_marketing_push": true,
+      "allow_invest_push": false,
+      "is_active": true,
+      "is_staff": true,
+      "created_at": "2021-08-20T12:02:57.317Z",
+      "updated_at": "2022-04-23T06:41:25.489Z"
+    },
+    {
+      "id": 48836,
+      "uuid": "32005a23-0f49-4d03-b668-b3a638a9b8c9",
+      "allow_marketing_push": true,
+      "allow_invest_push": true,
+      "is_active": true,
+      "is_staff": true,
+      "created_at": "2022-05-02T21:20:29.196Z",
+      "updated_at": "2020-04-08T02:51:50.719Z"
+    },
+    {
+      "id": 39947,
+      "uuid": "80bed2d0-b3a7-4610-aa34-36f2da0b9bb6",
+      "allow_marketing_push": true,
+      "allow_invest_push": false,
+      "is_active": false,
+      "is_staff": false,
+      "created_at": "2019-04-04T03:50:40.551Z",
+      "updated_at": "2021-01-05T07:21:23.621Z"
+    },
+    {
+      "id": 60320,
+      "uuid": "2a505427-992b-4cfa-a4a7-14cb98a4677d",
+      "allow_marketing_push": true,
+      "allow_invest_push": false,
+      "is_active": false,
+      "is_staff": false,
+      "created_at": "2021-03-01T20:20:01.423Z",
+      "updated_at": "2022-07-09T17:56:50.635Z"
+    },
+    {
+      "id": 12963,
+      "uuid": "58c9c5a3-7b79-41fa-8a1b-da278163bf7f",
+      "allow_marketing_push": false,
+      "allow_invest_push": true,
+      "is_active": false,
+      "is_staff": true,
+      "created_at": "2020-03-07T16:27:59.524Z",
+      "updated_at": "2020-03-14T09:17:47.348Z"
+    },
+    {
+      "id": 96286,
+      "uuid": "0650a275-15e6-4035-84a5-1401fc92d85d",
+      "allow_marketing_push": true,
+      "allow_invest_push": true,
+      "is_active": false,
+      "is_staff": true,
+      "created_at": "2019-12-10T23:46:44.745Z",
+      "updated_at": "2020-01-12T22:29:21.669Z"
+    },
+    {
+      "id": 6275,
+      "uuid": "b2f83864-e3c0-4f12-9ede-8e8231c8fd99",
+      "allow_marketing_push": true,
+      "allow_invest_push": false,
+      "is_active": true,
+      "is_staff": false,
+      "created_at": "2019-07-16T14:44:59.878Z",
+      "updated_at": "2020-01-28T19:11:32.600Z"
+    },
+    {
+      "id": 96811,
+      "uuid": "7aaa1b76-fb96-43d5-88f6-f173fecde357",
+      "allow_marketing_push": true,
+      "allow_invest_push": false,
+      "is_active": false,
+      "is_staff": false,
+      "created_at": "2020-12-23T17:28:55.864Z",
+      "updated_at": "2021-10-27T23:51:06.433Z"
+    },
+    {
+      "id": 50635,
+      "uuid": "b2254c74-5797-49aa-9a66-c6d6ae1fa025",
+      "allow_marketing_push": false,
+      "allow_invest_push": false,
+      "is_active": false,
+      "is_staff": false,
+      "created_at": "2022-05-09T13:04:36.464Z",
+      "updated_at": "2019-10-07T00:39:43.638Z"
+    },
+    {
+      "id": 84099,
+      "uuid": "e7198aa2-7b64-46a4-b1ff-7224aa72db19",
+      "allow_marketing_push": true,
+      "allow_invest_push": false,
+      "is_active": true,
+      "is_staff": true,
+      "created_at": "2019-09-22T00:58:28.645Z",
+      "updated_at": "2020-05-13T03:26:33.694Z"
+    },
+    {
+      "id": 28012,
+      "uuid": "0cfcecbe-2717-450a-92dc-a48ba420c7e1",
+      "allow_marketing_push": false,
+      "allow_invest_push": true,
+      "is_active": true,
+      "is_staff": true,
+      "created_at": "2020-05-23T19:15:17.397Z",
+      "updated_at": "2022-07-05T13:46:11.220Z"
+    },
+    {
+      "id": 31309,
+      "uuid": "76d5c763-b5c2-470f-add7-927935a7186d",
+      "allow_marketing_push": true,
+      "allow_invest_push": true,
+      "is_active": true,
+      "is_staff": false,
+      "created_at": "2020-09-13T13:56:05.444Z",
+      "updated_at": "2020-06-04T15:17:46.831Z"
+    },
+    {
+      "id": 43752,
+      "uuid": "d31f86e6-fc28-4633-ab39-80e6d47505a0",
+      "allow_marketing_push": true,
+      "allow_invest_push": false,
+      "is_active": true,
+      "is_staff": true,
+      "created_at": "2022-05-06T14:22:56.341Z",
+      "updated_at": "2021-06-24T13:31:14.876Z"
+    },
+    {
+      "id": 70602,
+      "uuid": "8488de62-56ce-4224-bb47-12701a433d2f",
+      "allow_marketing_push": true,
+      "allow_invest_push": true,
+      "is_active": true,
+      "is_staff": true,
+      "created_at": "2021-07-05T14:03:40.677Z",
+      "updated_at": "2021-12-25T10:50:41.119Z"
+    },
+    {
+      "id": 25724,
+      "uuid": "7e07790f-0c4b-4bc2-b6ac-79c431a2db78",
+      "allow_marketing_push": false,
+      "allow_invest_push": false,
+      "is_active": false,
+      "is_staff": false,
+      "created_at": "2019-09-26T01:21:31.048Z",
+      "updated_at": "2021-08-27T15:45:56.351Z"
+    },
+    {
+      "id": 28561,
+      "uuid": "12a7224b-30b3-47aa-a817-9ef2e78af790",
+      "allow_marketing_push": true,
+      "allow_invest_push": true,
+      "is_active": true,
+      "is_staff": true,
+      "created_at": "2021-11-17T11:39:42.205Z",
+      "updated_at": "2021-05-12T20:32:04.712Z"
+    },
+    {
+      "id": 84464,
+      "uuid": "ae195ad8-5f49-4bd0-99a6-b95d3ee646f1",
+      "allow_marketing_push": true,
+      "allow_invest_push": false,
+      "is_active": false,
+      "is_staff": true,
+      "created_at": "2019-09-02T14:08:05.048Z",
+      "updated_at": "2021-04-28T17:55:43.521Z"
+    },
+    {
+      "id": 82494,
+      "uuid": "30ac6a72-901e-46f2-bed9-1991eb51040c",
+      "allow_marketing_push": true,
+      "allow_invest_push": false,
+      "is_active": true,
+      "is_staff": true,
+      "created_at": "2020-12-29T01:52:44.063Z",
+      "updated_at": "2020-09-22T21:48:22.141Z"
+    },
+    {
+      "id": 61527,
+      "uuid": "fc03b0ab-d554-4029-822d-bab0df0ce6f1",
+      "allow_marketing_push": true,
+      "allow_invest_push": false,
+      "is_active": true,
+      "is_staff": false,
+      "created_at": "2022-06-24T11:28:36.577Z",
+      "updated_at": "2019-12-26T20:37:33.183Z"
+    },
+    {
+      "id": 34024,
+      "uuid": "b3d4e942-53cf-49c1-a0bf-a2438fa6af99",
+      "allow_marketing_push": true,
+      "allow_invest_push": false,
+      "is_active": false,
+      "is_staff": false,
+      "created_at": "2020-08-24T11:04:29.775Z",
+      "updated_at": "2019-12-15T05:02:53.763Z"
+    },
+    {
+      "id": 13597,
+      "uuid": "7ce0149c-0dd2-445e-903d-0838a2e1e6c3",
+      "allow_marketing_push": false,
+      "allow_invest_push": true,
+      "is_active": false,
+      "is_staff": false,
+      "created_at": "2020-01-20T01:27:49.668Z",
+      "updated_at": "2021-12-05T06:13:56.557Z"
+    },
+    {
+      "id": 14168,
+      "uuid": "5358244a-22e2-4bd9-a173-fb2ff912dd11",
+      "allow_marketing_push": false,
+      "allow_invest_push": true,
+      "is_active": false,
+      "is_staff": true,
+      "created_at": "2021-12-10T03:06:18.225Z",
+      "updated_at": "2020-05-11T06:00:44.477Z"
+    },
+    {
+      "id": 43776,
+      "uuid": "8ae90d25-8dbe-4462-80ab-d0e6e75a0b4f",
+      "allow_marketing_push": true,
+      "allow_invest_push": true,
+      "is_active": false,
+      "is_staff": false,
+      "created_at": "2022-02-13T12:34:32.134Z",
+      "updated_at": "2019-04-28T17:25:07.606Z"
+    },
+    {
+      "id": 22989,
+      "uuid": "585b82cb-6272-4fc4-a8ca-a0615d172a0f",
+      "allow_marketing_push": false,
+      "allow_invest_push": true,
+      "is_active": false,
+      "is_staff": false,
+      "created_at": "2021-07-01T22:07:39.269Z",
+      "updated_at": "2021-12-24T01:33:49.429Z"
+    },
+    {
+      "id": 20731,
+      "uuid": "af8cf73c-1c88-494b-87ea-c28b03bbc445",
+      "allow_marketing_push": true,
+      "allow_invest_push": true,
+      "is_active": true,
+      "is_staff": true,
+      "created_at": "2020-10-26T16:23:59.711Z",
+      "updated_at": "2019-06-11T19:00:30.116Z"
+    },
+    {
+      "id": 17482,
+      "uuid": "33327336-9a40-42f0-997c-b0938bd66fab",
+      "allow_marketing_push": true,
+      "allow_invest_push": false,
+      "is_active": true,
+      "is_staff": false,
+      "created_at": "2021-05-19T22:52:38.169Z",
+      "updated_at": "2022-04-09T01:11:59.134Z"
+    },
+    {
+      "id": 4812,
+      "uuid": "39fa6d38-0bdf-4d44-be25-c7e6ab39ae78",
+      "allow_marketing_push": true,
+      "allow_invest_push": false,
+      "is_active": false,
+      "is_staff": false,
+      "created_at": "2019-04-28T03:45:43.428Z",
+      "updated_at": "2021-05-02T09:30:41.019Z"
+    },
+    {
+      "id": 41692,
+      "uuid": "880827d7-b458-420b-8a88-a43af7e6ad87",
+      "allow_marketing_push": false,
+      "allow_invest_push": false,
+      "is_active": true,
+      "is_staff": false,
+      "created_at": "2020-10-26T08:21:49.440Z",
+      "updated_at": "2020-03-26T20:22:58.065Z"
+    },
+    {
+      "id": 19233,
+      "uuid": "27dad0cd-a58c-4d4a-b17e-557ec7774f94",
+      "allow_marketing_push": true,
+      "allow_invest_push": true,
+      "is_active": true,
+      "is_staff": false,
+      "created_at": "2020-01-01T15:17:24.430Z",
+      "updated_at": "2019-09-24T21:14:31.216Z"
+    },
+    {
+      "id": 69560,
+      "uuid": "034e8d24-5dc0-4902-abd2-f46da3e81c70",
+      "allow_marketing_push": false,
+      "allow_invest_push": false,
+      "is_active": true,
+      "is_staff": true,
+      "created_at": "2021-01-21T06:47:36.116Z",
+      "updated_at": "2020-08-27T13:03:36.630Z"
+    },
+    {
+      "id": 34627,
+      "uuid": "1d0421ad-ce5e-478d-ade8-242dea23d98e",
+      "allow_marketing_push": false,
+      "allow_invest_push": false,
+      "is_active": true,
+      "is_staff": true,
+      "created_at": "2021-02-09T04:49:32.623Z",
+      "updated_at": "2019-11-07T06:27:29.707Z"
+    },
+    {
+      "id": 30628,
+      "uuid": "ad6933ac-888d-41c3-aa88-7d1aa78cef2b",
+      "allow_marketing_push": false,
+      "allow_invest_push": true,
+      "is_active": false,
+      "is_staff": true,
+      "created_at": "2019-05-26T04:37:27.428Z",
+      "updated_at": "2021-01-20T21:22:51.741Z"
+    },
+    {
+      "id": 75176,
+      "uuid": "9bec2f72-5c21-41f7-a392-202a55fac57c",
+      "allow_marketing_push": false,
+      "allow_invest_push": false,
+      "is_active": false,
+      "is_staff": true,
+      "created_at": "2020-01-24T09:16:19.787Z",
+      "updated_at": "2020-05-13T13:33:10.257Z"
+    },
+    {
+      "id": 39345,
+      "uuid": "f0d18177-9115-404f-bbf5-a6900bdfbdbb",
+      "allow_marketing_push": false,
+      "allow_invest_push": false,
+      "is_active": false,
+      "is_staff": true,
+      "created_at": "2020-05-06T18:42:40.359Z",
+      "updated_at": "2021-05-03T07:49:53.202Z"
+    },
+    {
+      "id": 68979,
+      "uuid": "85897d6e-0c0b-409c-8e8a-21328752864a",
+      "allow_marketing_push": true,
+      "allow_invest_push": false,
+      "is_active": true,
+      "is_staff": true,
+      "created_at": "2020-06-02T00:59:07.658Z",
+      "updated_at": "2021-08-13T10:13:55.315Z"
+    },
+    {
+      "id": 98880,
+      "uuid": "3ad9acf1-9fec-4077-9086-16d4d0d2378c",
+      "allow_marketing_push": false,
+      "allow_invest_push": false,
+      "is_active": true,
+      "is_staff": true,
+      "created_at": "2020-01-03T09:12:32.905Z",
+      "updated_at": "2019-12-31T13:30:14.614Z"
+    },
+    {
+      "id": 17104,
+      "uuid": "645b4757-2f04-4deb-9643-e273c918cbc0",
+      "allow_marketing_push": true,
+      "allow_invest_push": false,
+      "is_active": false,
+      "is_staff": false,
+      "created_at": "2022-02-11T18:38:54.331Z",
+      "updated_at": "2020-09-05T15:04:52.847Z"
+    },
+    {
+      "id": 52563,
+      "uuid": "e327fe50-1dff-4489-a922-3766dec78015",
+      "allow_marketing_push": true,
+      "allow_invest_push": true,
+      "is_active": true,
+      "is_staff": false,
+      "created_at": "2020-12-25T21:59:54.313Z",
+      "updated_at": "2021-07-19T22:16:15.744Z"
+    },
+    {
+      "id": 41157,
+      "uuid": "d82e2138-b428-4743-a814-f11ae270823f",
+      "allow_marketing_push": true,
+      "allow_invest_push": true,
+      "is_active": true,
+      "is_staff": false,
+      "created_at": "2020-03-31T16:39:23.583Z",
+      "updated_at": "2020-05-06T03:58:35.534Z"
+    },
+    {
+      "id": 96217,
+      "uuid": "72f91df0-0ba2-4371-88a7-437175e1ab96",
+      "allow_marketing_push": false,
+      "allow_invest_push": false,
+      "is_active": true,
+      "is_staff": true,
+      "created_at": "2019-08-30T22:54:18.205Z",
+      "updated_at": "2021-03-06T13:41:53.374Z"
+    },
+    {
+      "id": 51419,
+      "uuid": "66499b25-3bc4-4047-b56f-d49c0a87b429",
+      "allow_marketing_push": false,
+      "allow_invest_push": true,
+      "is_active": true,
+      "is_staff": true,
+      "created_at": "2022-04-27T03:05:54.694Z",
+      "updated_at": "2021-04-26T21:06:01.112Z"
+    },
+    {
+      "id": 95618,
+      "uuid": "10427a86-b744-4db8-9707-3991e359ec3e",
+      "allow_marketing_push": true,
+      "allow_invest_push": false,
+      "is_active": true,
+      "is_staff": true,
+      "created_at": "2019-11-15T10:23:36.290Z",
+      "updated_at": "2022-06-15T14:40:45.409Z"
+    },
+    {
+      "id": 48544,
+      "uuid": "0a490a4c-85b6-4202-906a-11b9f1b277e7",
+      "allow_marketing_push": true,
+      "allow_invest_push": false,
+      "is_active": false,
+      "is_staff": false,
+      "created_at": "2022-03-27T00:57:48.632Z",
+      "updated_at": "2021-05-21T13:19:35.583Z"
+    },
+    {
+      "id": 37519,
+      "uuid": "c081c7c5-706e-4ad7-b07b-fcd66dcecee2",
+      "allow_marketing_push": false,
+      "allow_invest_push": false,
+      "is_active": true,
+      "is_staff": true,
+      "created_at": "2020-03-16T00:38:18.295Z",
+      "updated_at": "2019-04-23T00:56:23.502Z"
+    },
+    {
+      "id": 79723,
+      "uuid": "4c3777e2-652f-45be-86c2-8631c4489afd",
+      "allow_marketing_push": false,
+      "allow_invest_push": false,
+      "is_active": true,
+      "is_staff": true,
+      "created_at": "2021-04-21T11:18:41.376Z",
+      "updated_at": "2022-04-21T06:24:44.766Z"
+    },
+    {
+      "id": 67820,
+      "uuid": "ef83b687-6526-46a6-b7a1-fbf3d6c70bc4",
+      "allow_marketing_push": true,
+      "allow_invest_push": false,
+      "is_active": true,
+      "is_staff": false,
+      "created_at": "2020-08-26T09:35:11.769Z",
+      "updated_at": "2022-03-20T22:55:05.209Z"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "fint-api-server",
+  "version": "1.0.0",
+  "description": "fint-api-server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "CH4MD0M",
+  "license": "ISC",
+  "dependencies": {
+    "heroku-keep-awake": "^1.1.2",
+    "json-server": "^0.17.0",
+    "json-server-auth": "^2.1.0"
+  }
+}
