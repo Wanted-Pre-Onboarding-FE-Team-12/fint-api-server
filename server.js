@@ -13,7 +13,7 @@ const rules = auth.rewriter({
   userSetting: 660,
   accounts: 660,
 });
-
+const port = process.env.PORT || 4000;
 const DYNO_URL = 'https://fint-api.herokuapp.com/';
 const opts = {
   interval: 29,
@@ -26,7 +26,7 @@ server.use(rules);
 server.use(auth);
 server.use(router);
 
-server.listen(4000, () => {
+server.listen(port, () => {
   console.log('Server is Running');
   wakeDyno(DYNO_URL, opts);
 });
